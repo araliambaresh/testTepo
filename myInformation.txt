@@ -2,3 +2,7 @@ name -ambaresh arali
 age-25
 gender-male
 designation-software developer
+native-shahabad
+father-veeresh arali
+mother-parvati
+
